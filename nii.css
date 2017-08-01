@@ -1,17 +1,24 @@
 td{
     padding: 20px;
     color: black;
-    font:25px bold arial;
+    font:20px arial;
+    text-align: center;
+    font-style: italic;
 }
 #actions{
 position: relative;
+left:-200px;
 width:800px;height: 300px;
-//background-color: red;
+//background-color:;
 }
 table{
-     background-color:whitesmoke;
- }
 
-tr{
-    column-span: 8;
+ }
+table{
+    background-color:white;
+    width: 100%;
+}
+th{
+    column-span:8;
+    background-color:#373D40;
 }
