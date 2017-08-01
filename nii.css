@@ -1,0 +1,17 @@
+td{
+    padding: 20px;
+    color: black;
+    font:25px bold arial;
+}
+#actions{
+position: relative;
+width:800px;height: 300px;
+//background-color: red;
+}
+table{
+     background-color:whitesmoke;
+ }
+
+tr{
+    column-span: 8;
+}

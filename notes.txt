@@ -1,0 +1,7 @@
+
+#previous admin salt
+$salt = "shareholdersmgt2017"; 
+#users salt
+$salt = "SRSusersPword2017";
+#sh salt
+$salt = "shareholdersPword2017";
